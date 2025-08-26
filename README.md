@@ -1,7 +1,7 @@
 # 🔋 Battery Quality Analysis & Defect Detection  
 *Using NASA PCoE Li-ion Battery Dataset (B0005, B0006, B0007, B0018)*
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?logo=streamlit)](https://your-streamlit-app-url)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?logo=streamlit)](app)
 
 ## 📌 Project Overview
 Lithium-ion batteries are critical in electric vehicles, aerospace, and energy storage systems.  
@@ -184,7 +184,7 @@ battery-quality-analysis/
 **Przemyslaw Teodor Rydz**  
 Data Scientist | Battery Analytics 
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/przemyslaw-rydz-a2a55633b)  
 
 ## 🙏 Special Thanks
 Special thanks to my lovely girlfriend, I love You V.
