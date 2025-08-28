@@ -1,6 +1,5 @@
 data/
 *.mat
-*.joblib
 *.pkl
 *.zip
 .DS_Store
